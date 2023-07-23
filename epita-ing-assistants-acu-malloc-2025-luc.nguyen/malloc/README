@@ -1,0 +1,3 @@
+Example of how to use it:
+
+LD_PRELOAD=./libmalloc.so ls //will do the ls command with our own malloc
